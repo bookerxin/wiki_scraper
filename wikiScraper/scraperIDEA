@@ -1,0 +1,18 @@
+
+scraper with pyqt6 gui
+saves history of links offered up to cap
+saves viewed in tab too
+and saves saved.
+
+has option to continue randomly searching from one of saved or viewed or history.
+
+maybe its possible to find genre too.
+
+maybe have search option that will search and make a list of all things related
+
+clickable, savable from gui, openable from gui too.
+
+all the saving goes to files and is remembered when opened.
+
+perhaps even displays the wiki img that is shown for each link, in small format.
+
